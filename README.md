@@ -7,8 +7,8 @@ Soy un desarrollador enfocado en construir sistemas escalables y bien estructura
 - 🔭 Actualmente trabajando en: **CrediYa** — sistema de microservicios para autenticación, solicitudes y reportes de créditos
 - 🌱 Aprendiendo: arquitectura de microservicios, Terraform y buenas prácticas de DevOps
 - 💬 Pregúntame sobre: Java, TypeScript, APIs REST, infraestructura como código
-- 📫 Contacto: [tu email o LinkedIn aquí]
-- ⚡ Dato curioso: [algo personal, ej: "me encanta resolver problemas de arquitectura"]
+- 📫 Contacto:gmail.comjufepepa@
+- ⚡ Dato curioso: me encanta resolver problemas de arquitectura"
 
 ---
 
